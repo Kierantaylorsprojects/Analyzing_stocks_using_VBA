@@ -1,4 +1,4 @@
-# VBA_Project: The VBA of Wall Street
+# Analyzing_stocks_using_VBA
 
    ## Summary
    
